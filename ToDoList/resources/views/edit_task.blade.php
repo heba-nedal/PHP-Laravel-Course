@@ -8,7 +8,7 @@ action="{{route('toDoList.editTask')}}"
 @endsection
 
 @section('button')
-Edit
+Edit Task
 @endsection
 
 @section('id')

@@ -8,5 +8,5 @@ action="{{route('toDoList.addTask')}}"
 @endsection
 
 @section('button')
-Add
+Add A New Task
 @endsection
